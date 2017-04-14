@@ -1,0 +1,14 @@
+{
+  "name": "pubsub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "47",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.9.2"
+  }
+}
